@@ -62,7 +62,7 @@
         "symfony/translation": "self.version",
         "symfony/twig-bridge": "self.version",
         "symfony/twig-bundle": "self.version",
-        "symfony/validator": "self.version",
+        "symfony/validator": "v2.4.10",
         "symfony/web-profiler-bundle": "self.version",
         "symfony/yaml": "self.version"
     },
